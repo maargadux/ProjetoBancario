@@ -38,14 +38,6 @@ Este projeto faz parte da minha evolução como desenvolvedora backend, focando 
 
 ---
 
-### 📌 Estrutura do projeto
-
-```md
-src/
- └── maria/
-      └── maria/
-           └── ProjetoBancario.java
----
 ## ▶️ Como executar
 
 Compile o código:
