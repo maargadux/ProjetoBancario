@@ -24,7 +24,21 @@ O projeto simula uma conta bancária básica, permitindo operações como depós
 
 ---
 
-## 📌 Estrutura do projeto
+## 🌱 Objetivo
+
+Este projeto faz parte da minha evolução como desenvolvedora backend, focando na construção de uma base sólida em Java antes de avançar para aplicações mais complexas.
+
+---
+## 🔥 Próximos passos
+
+ Implementar validação de saldo (evitar saques inválidos)
+ Aplicar encapsulamento (private + getters/setters)
+ Criar menu interativo no terminal
+ Suporte a múltiplas contas
+
+---
+
+### 📌 Estrutura do projeto
 
 ```md
 src/
@@ -36,19 +50,7 @@ src/
 
 Compile o código:
 ```bash
-javac ProjetoBancario.java
+ javac ProjetoBancario.java
 Execute o programa:
-java ProjetoBancario
+  java ProjetoBancario
 
----
-
-## 🌱 Objetivo
-
-Este projeto faz parte da minha evolução como desenvolvedora backend, focando na construção de uma base sólida em Java antes de avançar para aplicações mais complexas.
-
----
-## 🔥 Próximos passos
- Implementar validação de saldo (evitar saques inválidos)
- Aplicar encapsulamento (private + getters/setters)
- Criar menu interativo no terminal
- Suporte a múltiplas contas
