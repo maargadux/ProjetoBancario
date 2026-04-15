@@ -26,15 +26,16 @@ O projeto simula uma conta bancária básica, permitindo operações como depós
 
 ## 📌 Estrutura do projeto
 
-```bash
+```md
 src/
  └── maria/
       └── maria/
-           └── ProjetoBancario.java```
+           └── ProjetoBancario.java
 ---
 ## ▶️ Como executar
 
 Compile o código:
+```bash
 javac ProjetoBancario.java
 Execute o programa:
 java ProjetoBancario
