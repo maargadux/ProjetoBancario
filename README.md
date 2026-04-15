@@ -30,4 +30,24 @@ O projeto simula uma conta bancária básica, permitindo operações como depós
 src/
  └── maria/
       └── maria/
-           └── ProjetoBancario.java
+           └── ProjetoBancario.java```
+---
+## ▶️ Como executar
+
+Compile o código:
+javac ProjetoBancario.java
+Execute o programa:
+java ProjetoBancario
+
+---
+
+## 🌱 Objetivo
+
+Este projeto faz parte da minha evolução como desenvolvedora backend, focando na construção de uma base sólida em Java antes de avançar para aplicações mais complexas.
+
+---
+## 🔥 Próximos passos
+ Implementar validação de saldo (evitar saques inválidos)
+ Aplicar encapsulamento (private + getters/setters)
+ Criar menu interativo no terminal
+ Suporte a múltiplas contas
