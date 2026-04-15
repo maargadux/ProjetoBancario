@@ -35,14 +35,3 @@ Este projeto faz parte da minha evolução como desenvolvedora backend, focando 
  Aplicar encapsulamento (private + getters/setters)
  Criar menu interativo no terminal
  Suporte a múltiplas contas
-
----
-
-## ▶️ Como executar
-
-Compile o código:
-```bash
- javac ProjetoBancario.java
-Execute o programa:
-  java ProjetoBancario
-
